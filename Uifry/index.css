@@ -1,0 +1,460 @@
+*{
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar{
+    display: flex;
+    padding: 25px;
+    justify-content: space-between;
+}
+.navbar a{
+    padding: 20px;
+}
+.img1{
+    position: absolute;
+    right: 50px;
+    top: 100px;
+}
+.text1{
+    position: absolute;
+    left: 70px;
+}
+.text1 h1{
+    z-index: 9;
+    color: black;
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: 5vw;
+    top: 100px;
+    left: 70px;
+}
+.text1 p{
+    z-index: 9;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: gray;
+    top: 150px;
+    left: 70px;
+}
+
+
+.btn1{
+    position: absolute;
+    top: 500px;
+    left: 75px;
+}
+
+.link1{
+    position: absolute;
+    top: 515px;
+    left: 300px;
+}
+
+.img4{
+    position: absolute;
+    top: 570px;
+    left: 70px;
+}
+.img5{
+    position: absolute;
+    top: 1000px;
+}
+.img2{
+    position: absolute;
+    top: 900px;
+    right: 0px;
+    background: transparent;
+}
+.text2{
+    font-family: Arial;
+    position: absolute;
+    top: 1100px;
+    right: 100px;
+    background: transparent;
+}
+.text2 p1{
+    font-size: 1.2vw;
+    color: rgb(211, 70, 18);
+    background: transparent;
+}
+.text2 h1{
+    font-size: 2.5vw;
+    font-weight: 1000;
+    background: transparent;
+}
+.text2 h3{
+    font-size: 1.2vw;
+    font-weight: 1000;
+    background: transparent;
+}
+.text2 p2{
+    color: gray;
+    background: transparent;
+}
+.text2 p3{
+    color: gray;
+    background: transparent;
+}
+.text2 p4{
+    color: gray;
+    background: transparent;
+}
+.img6{
+    position: absolute;
+    top: 1800px;
+    right: 20px;
+}
+.text3{
+    position: absolute;
+    top: 2000px;
+    left: 100px;
+    font-family: Arial;
+}
+.text3 p1{
+    font-size: 1.2vw;
+    color: rgb(211, 70, 18);
+}
+.text3 h1{
+    font-size: 2.5vw;
+    font-weight: 1000;
+}
+.text3 h2{
+    font-size: 1.7vw;
+    font-weight: 900;
+}
+.text3 p2{
+    color: gray;
+}
+.img7{
+    position: absolute;
+    top: 2500px;
+    left: 20px;
+}
+.text4{
+    position: absolute;
+    top: 2800px;
+    right: 70px;
+    font-family: Arial;
+}
+.text4 h2{
+    font-size: 2vw;
+    font-weight: 900;
+}
+.text4 p{
+    color: gray;
+}
+.head{
+    position: absolute;
+    top: 3350px;
+    right: 650px;
+    font-family: Arial;
+}
+.head p{
+    font-size: 1.5vw;
+    font-weight: 200;
+}
+.head h1{
+    font-size: 2vw;
+    font-weight: 900;
+}
+.star{
+    position: absolute;
+    top: 3300px;
+    right: 300px;
+}
+.img8{
+    position: absolute;
+    top: 3600px;
+    left: -20px;
+}
+.text5{
+    font-family: Arial;
+    position: absolute;
+    top: 3750px;
+    right: 70px;
+}
+.text5 h1{
+    font-size: 2vw;
+    font-weight: 1000;
+}
+.text5 p{
+    font-size: 1.2vw;
+    color: gray;
+}
+.img3{
+    position: absolute;
+    top: 4050px;
+    right: 400px;
+}
+.samptxt{
+    position: absolute;
+    top: 4100px;
+    right: 480px;
+    font-size: 1.2vw;
+    font-family: Arial;
+    font-weight: 1000;
+}
+.text6{
+    font-family: Arial;
+    position: absolute;
+    top: 4450px;
+    left: 100px;
+}
+.text6 p{
+    font-size: 1.2vw;
+    color: rgb(211, 70, 18);;
+}
+.text6 h1{
+    font-size: 2vw;
+    font-weight: 900;
+}
+.text7{
+    padding: 10px;
+    font-family: Arial;
+    position: absolute;
+    top: 4700px;
+    left: 100px;
+    background-image: url(images/Rectangle\ 14.png);
+    border-radius: 10px;
+}
+.text7 h2{
+    color: white;
+    background: transparent;
+}
+.text7 p{
+    color: white;
+    background: transparent;
+}
+.text8{
+    font-family: Arial;
+    position: absolute;
+    top: 4700px;
+    right: 100px;
+    color: gray;
+}
+.text9{
+    font-family: Arial;
+    position: absolute;
+    top: 4900px;
+    left: 100px;
+    color: gray;
+}
+.text10{
+    padding: 10px;
+    font-family: Arial;
+    position: absolute;
+    top: 4900px;
+    right: 100px;
+    background-image: url(images/Rectangle\ 14.png);
+    border-radius: 10px;
+}
+.text10 h2{
+    color: white;
+    background: transparent;
+}
+.text10 p{
+    color: white;
+    background: transparent;
+}
+.text11{
+    padding: 10px;
+    font-family: Arial;
+    position: absolute;
+    top: 5100px;
+    left: 100px;
+    background-image: url(images/Rectangle\ 14.png);
+    border-radius: 10px;
+}
+.text11 h2{
+    color: white;
+    background: transparent;
+}
+.text11 p{
+    color: white;
+    background: transparent;
+}
+.text12{
+    font-family: Arial;
+    position: absolute;
+    top: 5100px;
+    right: 100px;
+    color: gray;
+}
+.img9{
+    position: absolute;
+    background: transparent;
+    top: 5300px;
+    left: 120px;
+}
+.img10{
+    position: absolute;
+    top: 6000px;
+    left: 120px;
+}
+.img11{
+    position: absolute;
+    top: 6050px;
+    left: 120px;
+}
+.img12{
+    position: absolute;
+    top: 6090px;
+    left: 120px;
+}
+.link5 a{
+    text-decoration: none;
+    position: absolute;
+    top: 5979px;
+    left: 340px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+    font-weight: 700;
+}
+.link6 a{
+    text-decoration: none;
+    position: absolute;
+    top: 5979px;
+    left: 500px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link7 a{
+    text-decoration: none;
+    position: absolute;
+    top: 5979px;
+    left: 650px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link8 a{
+    text-decoration: none;
+    position: absolute;
+    top: 5979px;
+    left: 840px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link9 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6050px;
+    left: 345px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link10 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6050px;
+    left: 480px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link11 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6050px;
+    left: 660px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link12 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6050px;
+    left: 840px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link13 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6100px;
+    left: 345px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link14 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6100px;
+    left: 480px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link15 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6100px;
+    left: 660px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link16 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6140px;
+    left: 345px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link17 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6140px;
+    left: 480px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link18 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6140px;
+    left: 660px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link19 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6180px;
+    left: 345px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: black;
+}
+.link20 a{
+    text-decoration: none;
+    position: absolute;
+    top: 6140px;
+    left: 845px;
+    font-family: Arial;
+    font-size: 1.2vw;
+    color: gray;
+}
+.img13{
+    position: absolute;
+    top: 6120px;
+    right: 300px;
+}
+.cpyrht{
+    position: absolute;
+    display: flex;
+    padding: 30px;
+    top: 6210px;
+    right: 170px;
+}
